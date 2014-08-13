@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B94A5CEC-82CF-4972-BE41-339ED8E7EF73</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LostCharactersDataBase</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E4BCAD4F-8D56-435A-9919-0B375E84BFE4</key>
+		<string>ale-tami/MobileMakers</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LostCharactersDataBase/LostCharactersDataBase.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E4BCAD4F-8D56-435A-9919-0B375E84BFE4</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ale-tami/MobileMakers</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E4BCAD4F-8D56-435A-9919-0B375E84BFE4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E4BCAD4F-8D56-435A-9919-0B375E84BFE4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MobileMakers</string>
+		</dict>
+	</array>
+</dict>
+</plist>
